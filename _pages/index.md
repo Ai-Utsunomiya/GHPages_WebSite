@@ -16,7 +16,7 @@ permalink: /
 
 ｜Cafe no.｜📍堀江
 
-
+![image](/GHPages_WebSite/assets/images/unnamed (1).jpg)  
 
 選べるドリンクのカラー、マカロンの種類が豊富！
 店内が淡色系でおしゃれ空間。ここも推し活にぴったりです👌
