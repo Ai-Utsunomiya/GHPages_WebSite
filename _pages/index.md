@@ -1,7 +1,9 @@
 ---
 title: "【大阪おすすめカフェ巡りスポット】"
 author: default
+permalink: /
 ---
+
 ｜Book and Bed Tokyo Shinsaibashi｜📍心斎橋  
 ![image](/GHPages_WebSite/assets/images/unnamed.jpg)
 
