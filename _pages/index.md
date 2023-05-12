@@ -13,6 +13,7 @@ author: default
 
 選べるドリンクのカラー、マカロンの種類が豊富！
 店内が淡色系でおしゃれ空間。ここも推し活にぴったりです👌
+▷[リンク](https://cafeno.jp/)
 
 
 **近大生といえばココ！**　　
@@ -29,7 +30,7 @@ author: default
 改行は、行末に半角スペースを2個いれる
 次の行
 
-[リンク](https://bookandbedtokyo.com/ja/shinsaibashi/)
+[リンク](https://cafeno.jp/)
 
 **太字**
 
