@@ -2,7 +2,7 @@
 title: "【大阪おすすめカフェ巡りスポット】"
 author: default
 ---
-｜Book and Bed Tokyo Shinsaibashi｜📍心斎橋
+｜Book and Bed Tokyo Shinsaibashi｜📍心斎橋  
 ![image](/GHPages_WebSite/assets/images/unnamed(5).jpg)
 
 「泊まれる本屋」がコンセプトのホテル
