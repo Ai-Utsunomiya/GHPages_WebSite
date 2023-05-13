@@ -15,7 +15,7 @@ permalink: /
 
 ｜Cafe no.｜📍堀江
 
-![image](/GHPages_WebSite/assets/images/unnamed(1).jpg)  
+![image](/GHPages_WebSite/assets/images/IMG_0479.jpeg)  
 ![image](/GHPages_WebSiteassets/images/unnamed (3).jpg)  
 
 選べるドリンクのカラー、マカロンの種類が豊富！
