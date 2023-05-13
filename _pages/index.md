@@ -8,7 +8,7 @@ permalink: /
 ![image](/GHPages_webSite/assets/images/IMG-0561.JPG)  
 ![image](/GHPages_WebSite/assets/images/IMG_0525.jpeg)
 
-「泊まれる本屋」がコンセプトのホテル
+「泊まれる本屋」がコンセプトのホテル  
 ふつうのカフェはもちろん、追加料金でインスタ映えすぎる図書館空間でのカフェも可能です◎
 推し活にも最高の空間。（モノトーンカラーの推しがいる方はなおぴったりです🖤🤍）
 ▷[リンク](https://bookandbedtokyo.com/ja/shinsaibashi/)
