@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ｜Book and Bed Tokyo Shinsaibashi｜📍心斎橋  
-![image](/GHPages_webSite/assets/images/IMG_0560.jpeg)  
+![image](/GHPages_webSite/assets/images/IMG-0561.JPG)  
 ![image](/GHPages_WebSite/assets/images/IMG_0525.jpeg)
 
 「泊まれる本屋」がコンセプトのホテル
